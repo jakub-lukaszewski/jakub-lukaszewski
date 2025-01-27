@@ -1,7 +1,7 @@
 Jakub Lukaszewski
 =========================================================================================================================================
 <p dir="auto"> <strong>Software Engineer</strong> @ <a href="https://www.vml.com" rel="nofollow"> <strong>VML</strong> </a></p>
-<p dir="auto"> <strong>Third year student of a Bachelor's in Systems Engineering</strong> @ <a href="https://pwr.edu.pl" rel="nofollow"> <strong>Wroclaw University of Science and Technology</strong> </a></p>
+<p dir="auto"> <strong>Bachelor of Engineering</strong> (BE) in <strong>Systems Engineering</strong> @ <a href="https://pwr.edu.pl" rel="nofollow"> <strong>Wroclaw University of Science and Technology</strong> </a></p>
 
 --------------------------
 
