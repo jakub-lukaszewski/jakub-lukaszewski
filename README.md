@@ -1,13 +1,13 @@
 Jakub Lukaszewski
 =========================================================================================================================================
 <p dir="auto"> <strong>Software Engineer</strong> @ <a href="https://www.vml.com" rel="nofollow"> <strong>VML</strong> </a></p>
-<p dir="auto"> <strong>Bachelor of Engineering</strong> (BE) in <strong>Systems Engineering</strong> @ <a href="https://pwr.edu.pl" rel="nofollow"> <strong>Wroclaw University of Science and Technology</strong> </a></p>
+<p dir="auto"> <strong>Master of Science</strong> (MS) in <strong>Computer Science</strong> @ <a href="https://dtu.dk/" rel="nofollow"> <strong>Technical University of Denmark (DTU)</strong> </a></p>
 
 --------------------------
 
 Designing, implementing and testing backend solutions is what I do on a daily basis. Were you to remember one thing about me - I really do love software. Seeing solutions come to fruition and being used by users is what makes me feel delighted.
 
-* 🌍  I'm based in Poland
+* 🌍  I'm currently based in Denmark
 * ✉️  You can contact me at [james.lukaszewski@gmail.com](mailto:james.lukaszewski@gmail.com)
 
 <a href="https://www.github.com/jakub-lukaszewski" target="_blank" rel="noreferrer"><img
